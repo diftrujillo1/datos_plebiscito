@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Plebiscito por la paz\nExtracción de los datos de la Registraduría de Colombia para la votación del Plebiscito por la paz.\n\nEn el código encontrarán diferentes scripts en R para el análisis de la votación del Plebiscito en Colombia para el proceso de paz con las FARC-EP. Este proceso trata de analizar todo el 'ciclo de vida' del dato, desde su extracción hasta el consumo o la visualización de los datos. Para ello entonces, se exponen algunas técnicas:\n\n - Web scraping. Descargar los datos de la página Registraduría.\n \n - Limpieza de datos.\n \n - Cruce de información con otras tablas.\n \n - Visualización de datos.\n \n - Generación del reporte o escrito a partir de datos.\n \n - Construcción de datos limpios y reutilizables.\n \n Esta nota se hizo para el portal Datasketch para octubre del año 2016. Los siguientes links referencian a las fuentes donde se describe mejor el proceso o el análisis.\n \n https://www.datasketch.co/es/p/5-visualizaciones-para-comparar-la-votacion-por-el-no\n \n https://www.datasketch.co/es/p/los-datos-ocultos-de-la-registraduria\n \n http://www.eluniversal.com.mx/articulo/periodismo-de-datos/2016/10/10/13-departamentos-colombianos-deciden-no-la-paz",
+    "created" : 1510514736877.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1836135889",
+    "id" : "9E3EBF3D",
+    "lastKnownWriteTime" : 1510517145,
+    "last_content_update" : 1510517145517,
+    "path" : "C:/Users/natalia.raffo/Desktop/datos_plebiscito/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
